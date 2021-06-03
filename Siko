@@ -1,0 +1,7 @@
+echo "# fictional-octo-funicular" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Smart-developer1/fictional-octo-funicular.git
+git push -u origin main
